@@ -16,10 +16,14 @@
     - Time added
     - Recently modified
     - Upcoming deadline
+    ### Ordering Tasks
+    ![Edit Task](assets/task_viewer_page_apply_ordering.png)
 
 - **Intuitive UI**
   - Clean and simple interface that **prioritizes usability**.
   - **Optimized** and structured to **run effectively** on Windows OS.
+  ### Edit Task Form
+  ![Edit Task](assets/edit_task.png)
 
 - **Lightweight & Fast**
   - **Minimal abstraction** and **no** use of **third party** libraries for developing UI.
